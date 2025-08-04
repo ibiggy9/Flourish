@@ -23,19 +23,19 @@ https://github.com/yourusername/flourish-mental-health-companion/assets/readmevi
 
 | Main Menu | AI Chat Interface |
 |-----------|-------------------|
-| ![Main Menu](assets/menu.jpeg) | ![Chat Interface](assets/chat_1.jpeg) |
+| <img src="assets/menu.jpeg" alt="Main Menu" width="300"> | <img src="assets/chat_1.jpeg" alt="Chat Interface" width="300"> |
 
 | Breathing Exercise | Mental Health Quiz |
 |-------------------|-------------------|
-| ![Breathing Exercise](assets/breathing.jpeg) | ![Quiz Interface](assets/quiz_1.jpeg) |
+| <img src="assets/breathing.jpeg" alt="Breathing Exercise" width="300"> | <img src="assets/quiz_1.jpeg" alt="Quiz Interface" width="300"> |
 
 | White Noise | Chat Sessions |
 |-------------|---------------|
-| ![White Noise](assets/white_noise.jpeg) | ![Chat Sessions](assets/chat_2.jpeg) |
+| <img src="assets/white_noise.jpeg" alt="White Noise" width="300"> | <img src="assets/chat_2.jpeg" alt="Chat Sessions" width="300"> |
 
 | Additional Chat Views |
 |----------------------|
-| ![Chat View 3](assets/chat_3.jpeg) |
+| <img src="assets/chat_3.jpeg" alt="Chat View 3" width="300"> |
 
 ---
 
