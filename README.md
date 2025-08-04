@@ -11,6 +11,32 @@
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="250">](https://apps.apple.com/us/app/flourish-app-id)
 
+## 📱 App Demo
+
+Watch Flourish in action - the first AI therapy app on iOS:
+
+https://github.com/yourusername/flourish-mental-health-companion/assets/readmevid_compressed.mp4
+
+*Experience the AI chatbot interface, breathing exercises, and comprehensive mental health tools that made history on the App Store.*
+
+## 📸 Screenshots
+
+| Main Menu | AI Chat Interface |
+|-----------|-------------------|
+| ![Main Menu](assets/menu.jpeg) | ![Chat Interface](assets/chat_1.jpeg) |
+
+| Breathing Exercise | Mental Health Quiz |
+|-------------------|-------------------|
+| ![Breathing Exercise](assets/breathing.jpeg) | ![Quiz Interface](assets/quiz_1.jpeg) |
+
+| White Noise | Chat Sessions |
+|-------------|---------------|
+| ![White Noise](assets/white_noise.jpeg) | ![Chat Sessions](assets/chat_2.jpeg) |
+
+| Additional Chat Views |
+|----------------------|
+| ![Chat View 3](assets/chat_3.jpeg) |
+
 ---
 
 ## 📱 Overview
