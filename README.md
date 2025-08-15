@@ -11,14 +11,6 @@
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="250">](https://apps.apple.com/us/app/flourish-app-id)
 
-## 📱 App Demo
-
-Watch Flourish in action - the first AI therapy app on iOS:
-
-https://github.com/yourusername/flourish-mental-health-companion/assets/readmevid_compressed.mp4
-
-*Experience the AI chatbot interface, breathing exercises, and comprehensive mental health tools that made history on the App Store.*
-
 ## 📸 Screenshots
 
 | Main Menu | AI Chat Interface |
@@ -41,7 +33,7 @@ https://github.com/yourusername/flourish-mental-health-companion/assets/readmevi
 
 ## 📱 Overview
 
-**Flourish made history in January 2023 as the first AI therapy application to launch on the iOS App Store.** This groundbreaking achievement positioned the app as a pioneer in the mental health technology space, demonstrating the viability of AI-powered therapeutic support in a regulated app marketplace.
+**Flourish was the first AI Therapy app on the IOS App Store launched in January 2023** 
 
 The app addresses critical challenges in mental health accessibility by combining evidence-based therapeutic techniques with advanced conversational AI. At its core is "Fleur," an intelligent AI chatbot that engages users in therapeutic conversations, supported by a comprehensive suite of wellness tools including breathing exercises, meditation sessions, stress assessments, and structured journaling exercises.
 
@@ -250,5 +242,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for better mental health accessibility**
-
-*Pioneering AI therapy on mobile since January 2023* 
